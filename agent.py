@@ -16,9 +16,9 @@ from constants import (
 )
 import re
 
-class VodafoneAgent:
+class CustomerSupportAgent:
     """
-    React Agent for Vodafone customer support with per-session memory.
+    React Agent for customer support with per-session memory.
     """
 
     def __init__(self, retriever_manager: RetrieverManager):
@@ -245,9 +245,9 @@ class VodafoneAgent:
         return response.strip()
 
 
-def create_agent(retriever_manager: RetrieverManager) -> VodafoneAgent:
-    """Factory helper used by the app to create a VodafoneAgent instance.
+def create_agent(retriever_manager: RetrieverManager) -> CustomerSupportAgent:
+    """Factory helper used by the app to create a CustomerSupportAgent instance.
 
     Keeps the top-level import used in `app.py` simple: `from agent import create_agent`.
     """
-    return VodafoneAgent(retriever_manager)
+    return CustomerSupportAgent(retriever_manager)

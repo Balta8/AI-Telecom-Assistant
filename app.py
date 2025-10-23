@@ -12,7 +12,7 @@ from pathlib import Path
 project_root = Path(__file__).parent
 sys.path.insert(0, str(project_root))
 
-from agent import VodafoneAgent
+from agent import CustomerSupportAgent
 from utils.retrievers import RetrieverManager
 
 def main():
@@ -23,7 +23,7 @@ def main():
         # Initialize components
         print("⚙️  تهيئة المكونات...")
         retriever_manager = RetrieverManager(persist_directory="./chroma_store")
-        bot = VodafoneAgent(retriever_manager)
+        bot = CustomerSupportAgent(retriever_manager)
         
         print("✅ تم تهيئة البوت بنجاح!")
         print("\n📱 يمكنك الآن استخدام البوت:")

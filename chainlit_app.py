@@ -2,7 +2,7 @@
 Chainlit Chat Interface for Vodafone Customer Support
 """
 import chainlit as cl
-from agent import VodafoneAgent
+from agent import CustomerSupportAgent
 from utils.retrievers import RetrieverManager
 import uuid
 
@@ -22,7 +22,7 @@ async def start():
         ).send()
         
         retriever_manager = RetrieverManager(persist_directory="./chroma_store")
-        agent = VodafoneAgent(retriever_manager)
+        agent = CustomerSupportAgent(retriever_manager)
         
         await cl.Message(
             content="✅ تم تهيئة المساعد بنجاح!",
