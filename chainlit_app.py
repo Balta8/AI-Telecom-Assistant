@@ -1,5 +1,5 @@
 """
-Chainlit Chat Interface for Vodafone Customer Support
+Chainlit Chat Interface for Customer Support Agent
 """
 import chainlit as cl
 from agent import CustomerSupportAgent
