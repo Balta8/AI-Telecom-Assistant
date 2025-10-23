@@ -1,10 +1,8 @@
 #!/usr/bin/env python3
 """
-Vodafone Customer Support Chatbot
+Customer Support Chatbot
 Main application entry point
 """
-
-import os
 import sys
 from pathlib import Path
 
