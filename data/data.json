@@ -1,0 +1,322 @@
+[
+  {
+    "type": "faq",
+    "title": "إزاي أشحن رصيد؟",
+    "content": "تقدر تشحن بالكارت من خلال #ScratchCardCode*858* أو من تطبيق أنا فودافون أو من المحفظة.",
+    "price": NaN,
+    "category": "faq",
+    "tags": "شحن;رصيد"
+  },
+  {
+    "type": "faq",
+    "title": "إزاي ألغي باقة؟",
+    "content": "اتصل بـ #880* واختار إلغاء الباقة أو استخدم تطبيق أنا فودافون.",
+    "price": NaN,
+    "category": "faq",
+    "tags": "إلغاء;باقة"
+  },
+  {
+    "type": "faq",
+    "title": "إزاي أعرف الرصيد المتبقي؟",
+    "content": "اطلب #1*868* أو افتح تطبيق أنا فودافون.",
+    "price": NaN,
+    "category": "faq",
+    "tags": "رصيد;استعلام"
+  },
+  {
+    "type": "faq",
+    "title": "إزاي أجدد الباقة؟",
+    "content": "التجديد بيتم تلقائيًا عند وجود رصيد كافي، أو اطلب #225* للتجديد اليدوي.",
+    "price": NaN,
+    "category": "faq",
+    "tags": "تجديد;باقة"
+  },
+  {
+    "type": "faq",
+    "title": "إزاي أحول رصيد؟",
+    "content": "اطلب #رقم_الموبايل*المبلغ*2*868*.",
+    "price": NaN,
+    "category": "faq",
+    "tags": "تحويل;رصيد"
+  },
+  {
+    "type": "faq",
+    "title": "خدمة العملاء",
+    "content": "تقدر تكلم خدمة العملاء على 888 من خط فودافون أو 16888 من أي خط آخر.",
+    "price": NaN,
+    "category": "faq",
+    "tags": "خدمة;دعم"
+  },
+  {
+    "type": "package",
+    "title": "فليكس ٤٥",
+    "content": "١،٥٠٠ فليكس",
+    "price": "٤٥ جنيه شهرياً",
+    "category": "flex_packages",
+    "tags": "باقات;flex_packages"
+  },
+  {
+    "type": "package",
+    "title": "فليكس ٧٠",
+    "content": "٣،٠٠٠ فليكس",
+    "price": "٧٠ جنيه شهرياً",
+    "category": "flex_packages",
+    "tags": "باقات;flex_packages"
+  },
+  {
+    "type": "package",
+    "title": "فليكس ١٠٠",
+    "content": "٥،٠٠٠ فليكس",
+    "price": "١٠٠ جنيه شهرياً",
+    "category": "flex_packages",
+    "tags": "باقات;flex_packages"
+  },
+  {
+    "type": "package",
+    "title": "فليكس ١٥٠",
+    "content": "٩،٠٠٠ فليكس",
+    "price": "١٥٠ جنيه شهرياً",
+    "category": "flex_packages",
+    "tags": "باقات;flex_packages"
+  },
+  {
+    "type": "package",
+    "title": "فليكس ١٦٠",
+    "content": "١٠،٠٠٠ فليكس",
+    "price": "١٦٠ جنيه شهرياً",
+    "category": "flex_packages",
+    "tags": "باقات;flex_packages"
+  },
+  {
+    "type": "package",
+    "title": "فليكس ٣٠٠",
+    "content": "٢١،٠٠٠ فليكس",
+    "price": "٣٠٠ جنيه شهرياً",
+    "category": "flex_packages",
+    "tags": "باقات;flex_packages"
+  },
+  {
+    "type": "package",
+    "title": "Plus YouTube - فليكس 25-55",
+    "content": "1000 ميجا الميجابايتس تستخدم على YouTube",
+    "price": "6.5 جنيه",
+    "category": "flex_packages",
+    "tags": "باقات;flex_packages"
+  },
+  {
+    "type": "package",
+    "title": "Plus YouTube - فليكس 60-100",
+    "content": "2000 ميجا الميجابايتس تستخدم على YouTube",
+    "price": "6.5 جنيه",
+    "category": "flex_packages",
+    "tags": "باقات;flex_packages"
+  },
+  {
+    "type": "package",
+    "title": "Plus TikTok - فليكس 25-55",
+    "content": "1000 ميجا الميجابايتس تستخدم على TikTok",
+    "price": "6.5 جنيه",
+    "category": "flex_packages",
+    "tags": "باقات;flex_packages"
+  },
+  {
+    "type": "package",
+    "title": "Plus TikTok - فليكس 60-100",
+    "content": "2000 ميجا الميجابايتس تستخدم على TikTok",
+    "price": "6.5 جنيه",
+    "category": "flex_packages",
+    "tags": "باقات;flex_packages"
+  },
+  {
+    "type": "package",
+    "title": "Plus Play - فليكس 25-55",
+    "content": "1000 ميجا الميجابايتس تستخدم على PUBG",
+    "price": "6.5 جنيه",
+    "category": "flex_packages",
+    "tags": "باقات;flex_packages"
+  },
+  {
+    "type": "package",
+    "title": "Plus Play - فليكس 60-100",
+    "content": "2000 ميجا الميجابايتس تستخدم على PUBG",
+    "price": "6.5 جنيه",
+    "category": "flex_packages",
+    "tags": "باقات;flex_packages"
+  },
+  {
+    "type": "package",
+    "title": "Plus 32",
+    "content": "1750 ميجا (1400 ميجا بدون تجديد فليكس)",
+    "price": "32 جنيهًا",
+    "category": "plus_packages",
+    "tags": "باقات;plus_packages"
+  },
+  {
+    "type": "package",
+    "title": "Plus 60",
+    "content": "4000 ميجا (3000 ميجا بدون تجديد فليكس)",
+    "price": "60 جنيهًا",
+    "category": "plus_packages",
+    "tags": "باقات;plus_packages"
+  },
+  {
+    "type": "package",
+    "title": "Plus 105",
+    "content": "7250 ميجا (6000 ميجا بدون تجديد فليكس)",
+    "price": "105 جنيهًا",
+    "category": "plus_packages",
+    "tags": "باقات;plus_packages"
+  },
+  {
+    "type": "package",
+    "title": "باقة Plus 32 جنيه",
+    "content": "1400 ميجا",
+    "price": "32 جنيه",
+    "category": "plus_packages",
+    "tags": "باقات;plus_packages"
+  },
+  {
+    "type": "package",
+    "title": "باقة Plus 60 جنيه",
+    "content": "3000 ميجا",
+    "price": "60 جنيه",
+    "category": "plus_packages",
+    "tags": "باقات;plus_packages"
+  },
+  {
+    "type": "package",
+    "title": "باقة Plus 85 جنيه",
+    "content": "4750 ميجا",
+    "price": "85 جنيه",
+    "category": "plus_packages",
+    "tags": "باقات;plus_packages"
+  },
+  {
+    "type": "package",
+    "title": "باقة Plus 105 جنيه",
+    "content": "6000 ميجا",
+    "price": "105 جنيه",
+    "category": "plus_packages",
+    "tags": "باقات;plus_packages"
+  },
+  {
+    "type": "package",
+    "title": "باقة Plus 155 جنيه",
+    "content": "10000 ميجا",
+    "price": "155 جنيه",
+    "category": "plus_packages",
+    "tags": "باقات;plus_packages"
+  },
+  {
+    "type": "package",
+    "title": "باقة Plus 260 جنيه",
+    "content": "18000 ميجا",
+    "price": "260 جنيه",
+    "category": "plus_packages",
+    "tags": "باقات;plus_packages"
+  },
+  {
+    "type": "package",
+    "title": "باقة Plus 520 جنيه",
+    "content": "45000 ميجا",
+    "price": "520 جنيه",
+    "category": "plus_packages",
+    "tags": "باقات;plus_packages"
+  },
+  {
+    "type": "package",
+    "title": "Plus Business 750 ميجا",
+    "content": "750 ميجا: 20 جنيهًا (1،000 ميجا عند الاشتراك عبر «على الفاتورة»)",
+    "price": "20 جنيهًا",
+    "category": "plus_business",
+    "tags": "باقات;plus_business"
+  },
+  {
+    "type": "package",
+    "title": "Plus Business 1،400 ميجا",
+    "content": "1،400 ميجا: 32 جنيهًا (1،750 ميجا عبر «على الفاتورة»)",
+    "price": "32 جنيهًا",
+    "category": "plus_business",
+    "tags": "باقات;plus_business"
+  },
+  {
+    "type": "package",
+    "title": "Plus Business 2،250 ميجا",
+    "content": "2،250 ميجا: 45 جنيهًا (3،000 ميجا عبر «على الفاتورة»)",
+    "price": "45 جنيهًا",
+    "category": "plus_business",
+    "tags": "باقات;plus_business"
+  },
+  {
+    "type": "package",
+    "title": "Plus Business 3،000 ميجا",
+    "content": "3،000 ميجا: 60 جنيهًا (4،000 ميجا عبر «على الفاتورة»)",
+    "price": "60 جنيهًا",
+    "category": "plus_business",
+    "tags": "باقات;plus_business"
+  },
+  {
+    "type": "package",
+    "title": "Plus Business 4،750 ميجا",
+    "content": "4،750 ميجا: 85 جنيهًا (6،000 ميجا عبر «على الفاتورة»)",
+    "price": "85 جنيهًا",
+    "category": "plus_business",
+    "tags": "باقات;plus_business"
+  },
+  {
+    "type": "package",
+    "title": "Plus Business 10،000 ميجا",
+    "content": "10،000 ميجا: 155 جنيهًا (11،500 ميجا عبر «على الفاتورة»)",
+    "price": "155 جنيهًا",
+    "category": "plus_business",
+    "tags": "باقات;plus_business"
+  },
+  {
+    "type": "package",
+    "title": "Plus Business 18،000 ميجا",
+    "content": "18،000 ميجا: 260 جنيهًا (20،000 ميجا عبر «على الفاتورة»)",
+    "price": "260 جنيهًا",
+    "category": "plus_business",
+    "tags": "باقات;plus_business"
+  },
+  {
+    "type": "package",
+    "title": "Plus Business 29،000 ميجا",
+    "content": "29،000 ميجا: 390 جنيهًا (31،500 ميجا عبر «على الفاتورة»)",
+    "price": "390 جنيهًا",
+    "category": "plus_business",
+    "tags": "باقات;plus_business"
+  },
+  {
+    "type": "package",
+    "title": "Plus Business 45،000 ميجا",
+    "content": "45،000 ميجا: 520 جنيهًا (49،000 ميجا عبر «على الفاتورة»)",
+    "price": "520 جنيهًا",
+    "category": "plus_business",
+    "tags": "باقات;plus_business"
+  },
+  {
+    "type": "package",
+    "title": "Plus YouTube - نظام الكارت",
+    "content": "450 ميجا الميجابايتس تستخدم على YouTube",
+    "price": "6.5 جنيه",
+    "category": "specialized_apps",
+    "tags": "باقات;specialized_apps"
+  },
+  {
+    "type": "package",
+    "title": "Plus TikTok - نظام الكارت",
+    "content": "450 ميجا الميجابايتس تستخدم على TiKtok",
+    "price": "6.5 جنيه",
+    "category": "specialized_apps",
+    "tags": "باقات;specialized_apps"
+  },
+  {
+    "type": "package",
+    "title": "Plus Play - نظام الكارت",
+    "content": "450 ميجا الميجابايتس تستخدم على PUBG",
+    "price": "6.5 جنيه",
+    "category": "specialized_apps",
+    "tags": "باقات;specialized_apps"
+  }
+]
