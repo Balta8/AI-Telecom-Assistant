@@ -169,7 +169,6 @@ class CustomerSupportAgent:
         # If we can't extract content, return the original but cleaned
         cleaned = error_message.replace("Could not parse LLM output:", "")
         cleaned = cleaned.replace("`", "").replace("For troubleshooting, visit:", "")
-        cleaned = cleaned.split("https://python.langchain.com")[0]  # Remove the URL
         return cleaned.strip()
 
     def handle_message(self, session_id: str, user_message: str) -> str:
